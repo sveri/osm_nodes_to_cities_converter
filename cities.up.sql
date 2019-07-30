@@ -7,5 +7,5 @@ country text,
 continent text
 );
 
-ALTER TABLE users OWNER TO osmcities;
+ALTER TABLE cities OWNER TO osmcities;
 
